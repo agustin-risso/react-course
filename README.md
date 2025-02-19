@@ -1,35 +1,35 @@
 # Section 1 – React Basics
-- ⌨️ Course Introduction
-- ⌨️ What we'll learn
-- ⌨️ First React Code
-- ⌨️ First React Challenge
-- ⌨️ Local Setup w/ Vite
-- ⌨️ Libraries/Frameworks
-- ⌨️ React.createElement()
-- ⌨️ JSX
-- ⌨️ Why React? It's Composable!
-- ⌨️ Why React? It's Declarative!
-- ⌨️ Random housekeeping
-- ⌨️ ReactFacts Project - Markup
-- ⌨️ Pop Quiz
-- ⌨️ Custom Components
-- ⌨️ Custom Components Challenge Part 2
-- ⌨️ Custom Components Quiz
-- ⌨️ Fragments
-- ⌨️ Custom Components - Parent/Child Components
-- ⌨️ Styling with Classes
-- ⌨️ Organizing Components
-- ⌨️ Make Mental Outline of Project
-- ⌨️ Initial Project Setup
-- ⌨️ ReactFacts - Navbar & Styling
-- ⌨️ ReactFacts - Main Content Section
-- ⌨️ ReactFacts - Coloring the Bullets
-- ⌨️ ReactFacts - Add Background Image
-- ⌨️ Section 1 Recap
+- ~~⌨️ Course Introduction~~
+- ~~⌨️ What we'll learn~~
+- ~~⌨️ First React Code~~
+- ~~⌨️ First React Challenge~~
+- ~~⌨️ Local Setup w/ Vite~~
+- ~~⌨️ Libraries/Frameworks~~
+- ~~⌨️ React.createElement()~~
+- ~~⌨️ JSX~~
+- ~~⌨️ Why React? It's Composable!~~
+- ~~⌨️ Why React? It's Declarative!~~
+- ~~⌨️ Random housekeeping~~
+- ~~⌨️ ReactFacts Project - Markup~~
+- ~~⌨️ Pop Quiz~~
+- ~~⌨️ Custom Components~~
+- ~~⌨️ Custom Components Challenge Part 2~~
+- ~~⌨️ Custom Components Quiz~~
+- ~~⌨️ Fragments~~
+- ~~⌨️ Custom Components - Parent/Child Components~~
+- ~~⌨️ Styling with Classes~~
+- ~~⌨️ Organizing Components~~
+- ~~⌨️ Make Mental Outline of Project~~
+- ~~⌨️ Initial Project Setup~~
+- ~~⌨️ ReactFacts - Navbar & Styling~~
+- ~~⌨️ ReactFacts - Main Content Section~~
+- ~~⌨️ ReactFacts - Coloring the Bullets~~
+- ~~⌨️ ReactFacts - Add Background Image~~
+- ~~⌨️ Section 1 Recap~~
 
 # Section 2 – Travel Journal Project
-- ⌨️ Section 2 Intro
-- ⌨️ Travel Journal - Header
+- ~~⌨️ Section 2 Intro~~
+- ~~⌨️ Travel Journal - Header~~
 - ⌨️ Travel Journal - Entry Component
 - ⌨️ Problem - Not reusable
 - ⌨️ Props
