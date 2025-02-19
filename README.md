@@ -1,1 +1,168 @@
-# react-course
+# Section 1 – React Basics
+- ⌨️ Course Introduction
+- ⌨️ What we'll learn
+- ⌨️ First React Code
+- ⌨️ First React Challenge
+- ⌨️ Local Setup w/ Vite
+- ⌨️ Libraries/Frameworks
+- ⌨️ React.createElement()
+- ⌨️ JSX
+- ⌨️ Why React? It's Composable!
+- ⌨️ Why React? It's Declarative!
+- ⌨️ Random housekeeping
+- ⌨️ ReactFacts Project - Markup
+- ⌨️ Pop Quiz
+- ⌨️ Custom Components
+- ⌨️ Custom Components Challenge Part 2
+- ⌨️ Custom Components Quiz
+- ⌨️ Fragments
+- ⌨️ Custom Components - Parent/Child Components
+- ⌨️ Styling with Classes
+- ⌨️ Organizing Components
+- ⌨️ Make Mental Outline of Project
+- ⌨️ Initial Project Setup
+- ⌨️ ReactFacts - Navbar & Styling
+- ⌨️ ReactFacts - Main Content Section
+- ⌨️ ReactFacts - Coloring the Bullets
+- ⌨️ ReactFacts - Add Background Image
+- ⌨️ Section 1 Recap
+
+# Section 2 – Travel Journal Project
+- ⌨️ Section 2 Intro
+- ⌨️ Travel Journal - Header
+- ⌨️ Travel Journal - Entry Component
+- ⌨️ Problem - Not reusable
+- ⌨️ Props
+- ⌨️ Prop quiz! (Get it??)
+- ⌨️ Destructuring props
+- ⌨️ Props practice
+- ⌨️ Non-string props
+- ⌨️ Importing static assets
+- ⌨️ Pass props to Entry component
+- ⌨️ Review - array .map()
+- ⌨️ React can render arrays
+- ⌨️ Mapping components
+- ⌨️ Map quiz!
+- ⌨️ Travel Journal: Map Entry components
+- ⌨️ Travel Journal: key prop
+- ⌨️ Travel Journal: Pass object as props
+- ⌨️ Travel Journal: Spread object as props
+- ⌨️ Section 2 Recap
+
+# Section 3 – Chef Claude Project
+- ⌨️ Section 3 Intro
+- ⌨️ Chef Claude: Header
+- ⌨️ Chef Claude: form
+- ⌨️ Chef Claude: Project overview
+- ⌨️ Event Listeners
+- ⌨️ Chef Claude: Map ingredients list
+- ⌨️ Props vs. State: Props
+- ⌨️ Props vs. State: State
+- ⌨️ useState
+- ⌨️ useState array destructuring
+- ⌨️ Changing state
+- ⌨️ State practice
+- ⌨️ Updating state with a callback function
+- ⌨️ Changing state quiz
+- ⌨️ Ternary practice
+- ⌨️ Toggling state
+- ⌨️ Complex state: Arrays
+- ⌨️ Chef Claude: Refactor array state
+- ⌨️ Complex state: Objects
+- ⌨️ Complex state: updating state objects
+- ⌨️ React forms intro
+- ⌨️ Form basics
+- ⌨️ Form submission
+- ⌨️ Form action
+- ⌨️ Chef Claude: Refactor form submission
+- ⌨️ Forms: textarea & defaultValue
+- ⌨️ Forms: radio
+- ⌨️ Forms: checkbox
+- ⌨️ Forms: select and option
+- ⌨️ Forms: Object.fromEntries
+- ⌨️ Chef Claude: conditional rendering intro
+- ⌨️ Conditional rendering
+- ⌨️ Chef Claude
+- ⌨️ Chef Claude: Get recipe placeholder challenge
+- ⌨️ Passing state as props
+- ⌨️ Setting state from child components
+- ⌨️ Passing data around React
+- ⌨️ Sound pads challenge
+- ⌨️ Chef Claude challenge: refactor to separate components
+- ⌨️ API Sign Ups
+- ⌨️ AI code walkthrough
+- ⌨️ Challenge quiz: prep to get recipe from the AI chef
+- ⌨️ Challenge: Get recipe from the AI chef
+- ⌨️ Format recipe response
+- ⌨️ Section 3 Outro
+
+# Section 4 – Meme Generator Project
+- ⌨️ Section 4 Intro
+- ⌨️ Meme Generator Starting Point
+- ⌨️ Meme Generator State
+- ⌨️ Controlled Components
+- ⌨️ Planning data fetch
+- ⌨️ Functional programming in React
+- ⌨️ Fetching data in React
+- ⌨️ useEffect()
+- ⌨️ Meme Generator - Fetch Memes
+- ⌨️ State and Effect practices
+- ⌨️ useEffect cleanup function
+- ⌨️ Meme Generator - Get random meme
+- ⌨️ Sneak peak: refs
+- ⌨️ useEffect practice: scrollIntoView()
+- ⌨️ scrollIntoView() iFrame bug fix
+- ⌨️ Section 4 Outro
+
+# Section 5 – Tenzies Project
+- ⌨️ Tenzies Intro
+- ⌨️ Setup
+- ⌨️ Die component
+- ⌨️ Generate 10 random numbers
+- ⌨️ Map array to Die components
+- ⌨️ Roll dice button
+- ⌨️ Change dice to objects
+- ⌨️ Styling held dice
+- ⌨️ Hold dice
+- ⌨️ End game
+- ⌨️ Lazy State Initialization
+- ⌨️ New game
+- ⌨️ Accessibility Improvements
+- ⌨️ Tenzies Outro
+
+# Section 6 – Assembly Endgame Project
+- ⌨️ Assembly Endgame Intro
+- ⌨️ Project Planning
+- ⌨️ Header Section
+- ⌨️ Status Section
+- ⌨️ Languages List
+- ⌨️ Word Display
+- ⌨️ Keyboard
+- ⌨️ Save the guessed letters
+- ⌨️ Keyboard letter styles for guesses
+- ⌨️ Only display correctly guessed letters in word
+- ⌨️ Wrong guess count
+- ⌨️ Lost languages
+- ⌨️ isGameOver
+- ⌨️ Display won/lost status
+- ⌨️ Quick CSS alignment fix
+- ⌨️ Conditional rendering with a helper function
+- ⌨️ Backlog inventory
+- ⌨️ Farewell messages
+- ⌨️ Disable keyboard when the game is over
+- ⌨️ Make the game more a11y-friendly
+- ⌨️ Choose random word
+- ⌨️ New game button resets the game
+- ⌨️ Display missed letters when lost
+- ⌨️ 🎉🎉
+- ⌨️ Assembly Endgame Outro
+- ⌨️ Course Outro
+
+# Bonus Section – React and VS Code
+- ⌨️ Helpful React VS Code Extensions
+- ⌨️ Moving to VS Code
+- ⌨️ ES7 + React Snippets Extension
+- ⌨️ Import Extension
+- ⌨️ React Developer Tools Chrome Extension
+- ⌨️ React Component Tree
+- ⌨️ ReacTree
